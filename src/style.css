@@ -1,0 +1,7 @@
+/* normalizing styles */
+@import url('./vendor/normalize.css');
+/* fonts */
+@import url('./vendor/fonts/Manrope.css');
+* {
+  font-family: 'Manrope', 'Arial', sans-serif;
+}
